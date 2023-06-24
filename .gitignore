@@ -1,0 +1,13 @@
+# Default ignored files
+/.idea
+/target
+/pb3.iml
+/pb.iml
+/.project
+/.classpath
+/.settings
+# Datasource local storage ignored files
+/walmart.zip
+/Requirementsmeetingreport.docx
+
+# Editor-based HTTP Client requests
